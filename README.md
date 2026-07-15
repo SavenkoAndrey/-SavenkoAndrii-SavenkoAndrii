@@ -46,9 +46,3 @@ Full Stack Developer and AI Enthusiast based in the Netherlands. Building modern
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SavenkoAndrii&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8&icon_color=7C3AED" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavenkoAndrii&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8" height="150">
-</p>
